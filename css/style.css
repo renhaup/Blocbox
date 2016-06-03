@@ -8,11 +8,6 @@ body {
 h1, h2, h3, h4, h5, h6 {
     font-family: "Varela Round", Helvetica, Arial, sans-serif;
 }
-h1 {
-    animation-duration: infinite;
-    animation-name: fadeIn;
-}
-
 h2 {
     font-size:28px;
     font-weight: normal;
